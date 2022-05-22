@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:IrisClient"
         mc:Ignorable="d"
         Closing="WindowClosed"
-        Title="Iris" Height="450" Width="800" MinWidth="800" MinHeight="450" Background="#FF119A8E" AutomationProperties.IsOffscreenBehavior="Offscreen" WindowStartupLocation="CenterScreen">
+        Title="Chat50Points" Height="450" Width="800" MinWidth="800" MinHeight="450" Background="#FF119A8E" AutomationProperties.IsOffscreenBehavior="Offscreen" WindowStartupLocation="CenterScreen">
     <Window.Resources>
         <SolidColorBrush x:Key="ListBox.Static.Background" Color="#FFFFFFFF"/>
         <SolidColorBrush x:Key="ListBox.Static.Border" Color="#FFABADB3"/>
